@@ -9,6 +9,7 @@ public class HomeworkFunction {
 
         
     }
+    
     public static void  main(String[] args) {
         @SuppressWarnings("resource")
         Scanner sc = new Scanner (System.in);
@@ -16,6 +17,7 @@ public class HomeworkFunction {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
+        //function calling
         System.out.println("this is an avg of the no "+ avgNumber(a, b, c));
     }
     
