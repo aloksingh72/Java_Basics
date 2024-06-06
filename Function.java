@@ -36,7 +36,7 @@ public class Function {
     //     @SuppressWarnings("resource")
     //     Scanner sc= new Scanner(System.in);
     //     String name  = sc.next();
-
+// function calling
     //     printMyName(name);
     // }
     
